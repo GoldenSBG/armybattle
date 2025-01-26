@@ -1,0 +1,102 @@
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":""}
+
+
+
+tellraw @a[team=blue] {"text":"Configure the waves!","bold":true,"color":"dark_aqua"}
+tellraw @a[team=blue] {"text":"\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557","bold":true,"color":"dark_aqua"}
+tellraw @a[team=blue] {"text":""}
+
+
+function game:init/list_mobs_to_beat_blue {mob:"allay"}
+function game:init/list_mobs_to_beat_blue {mob:"axolotl"}
+function game:init/list_mobs_to_beat_blue {mob:"bat"}
+function game:init/list_mobs_to_beat_blue {mob:"bee"}
+function game:init/list_mobs_to_beat_blue {mob:"blaze"}
+function game:init/list_mobs_to_beat_blue {mob:"camel"}
+function game:init/list_mobs_to_beat_blue {mob:"cat"}
+function game:init/list_mobs_to_beat_blue {mob:"cave_spider"}
+function game:init/list_mobs_to_beat_blue {mob:"chicken"}
+function game:init/list_mobs_to_beat_blue {mob:"cod"}
+function game:init/list_mobs_to_beat_blue {mob:"cow"}
+function game:init/list_mobs_to_beat_blue {mob:"creeper"}
+function game:init/list_mobs_to_beat_blue {mob:"dolphin"}
+function game:init/list_mobs_to_beat_blue {mob:"donkey"}
+function game:init/list_mobs_to_beat_blue {mob:"drowned"}
+function game:init/list_mobs_to_beat_blue {mob:"elder_guardian"}
+function game:init/list_mobs_to_beat_blue {mob:"enderman"}
+function game:init/list_mobs_to_beat_blue {mob:"endermite"}
+function game:init/list_mobs_to_beat_blue {mob:"evoker"}
+function game:init/list_mobs_to_beat_blue {mob:"fox"}
+function game:init/list_mobs_to_beat_blue {mob:"frog"}
+function game:init/list_mobs_to_beat_blue {mob:"ghast"}
+function game:init/list_mobs_to_beat_blue {mob:"glow_squid"}
+function game:init/list_mobs_to_beat_blue {mob:"goat"}
+function game:init/list_mobs_to_beat_blue {mob:"guardian"}
+function game:init/list_mobs_to_beat_blue {mob:"horse"}
+function game:init/list_mobs_to_beat_blue {mob:"hoglin"}
+function game:init/list_mobs_to_beat_blue {mob:"husk"}
+function game:init/list_mobs_to_beat_blue {mob:"iron_golem"}
+function game:init/list_mobs_to_beat_blue {mob:"llama"}
+function game:init/list_mobs_to_beat_blue {mob:"magma_cube"}
+function game:init/list_mobs_to_beat_blue {mob:"mooshroom"}
+function game:init/list_mobs_to_beat_blue {mob:"mule"}
+function game:init/list_mobs_to_beat_blue {mob:"ocelot"}
+function game:init/list_mobs_to_beat_blue {mob:"panda"}
+function game:init/list_mobs_to_beat_blue {mob:"parrot"}
+function game:init/list_mobs_to_beat_blue {mob:"phantom"}
+function game:init/list_mobs_to_beat_blue {mob:"pig"}
+function game:init/list_mobs_to_beat_blue {mob:"piglin"}
+function game:init/list_mobs_to_beat_blue {mob:"piglin_brute"}
+function game:init/list_mobs_to_beat_blue {mob:"pillager"}
+function game:init/list_mobs_to_beat_blue {mob:"polar_bear"}
+function game:init/list_mobs_to_beat_blue {mob:"pufferfish"}
+function game:init/list_mobs_to_beat_blue {mob:"rabbit"}
+function game:init/list_mobs_to_beat_blue {mob:"ravager"}
+function game:init/list_mobs_to_beat_blue {mob:"salmon"}
+function game:init/list_mobs_to_beat_blue {mob:"sheep"}
+function game:init/list_mobs_to_beat_blue {mob:"shulker"}
+function game:init/list_mobs_to_beat_blue {mob:"silverfish"}
+function game:init/list_mobs_to_beat_blue {mob:"skeleton"}
+function game:init/list_mobs_to_beat_blue {mob:"skeleton_horse "}
+function game:init/list_mobs_to_beat_blue {mob:"slime"}
+function game:init/list_mobs_to_beat_blue {mob:"snow_golem"}
+function game:init/list_mobs_to_beat_blue {mob:"sniffer"}
+function game:init/list_mobs_to_beat_blue {mob:"spider"}
+function game:init/list_mobs_to_beat_blue {mob:"squid"}
+function game:init/list_mobs_to_beat_blue {mob:"stray"}
+function game:init/list_mobs_to_beat_blue {mob:"strider"}
+function game:init/list_mobs_to_beat_blue {mob:"tadpole"}
+function game:init/list_mobs_to_beat_blue {mob:"trader_llama"}
+function game:init/list_mobs_to_beat_blue {mob:"tropical_fish"}
+function game:init/list_mobs_to_beat_blue {mob:"turtle"}
+function game:init/list_mobs_to_beat_blue {mob:"villager"}
+function game:init/list_mobs_to_beat_blue {mob:"vindicator"}
+function game:init/list_mobs_to_beat_blue {mob:"wandering_trader"}
+function game:init/list_mobs_to_beat_blue {mob:"warden"}
+function game:init/list_mobs_to_beat_blue {mob:"witch"}
+function game:init/list_mobs_to_beat_blue {mob:"wither"}
+function game:init/list_mobs_to_beat_blue {mob:"wither_skeleton"}
+function game:init/list_mobs_to_beat_blue {mob:"wolf"}
+function game:init/list_mobs_to_beat_blue {mob:"zoglin"}
+function game:init/list_mobs_to_beat_blue {mob:"zombie"}
+function game:init/list_mobs_to_beat_blue {mob:"zombie_horse"}
+function game:init/list_mobs_to_beat_blue {mob:"zombie_villager"}
+function game:init/list_mobs_to_beat_blue {mob:"zombified_piglin"}
+function game:init/list_mobs_to_beat_blue {mob:"breeze"}
+function game:init/list_mobs_to_beat_blue {mob:"bogged"}
+function game:init/list_mobs_to_beat_blue {mob:"armadillo"}
+
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":"\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d","bold":true,"color":"dark_aqua"}
+tellraw @a[team=blue] {"text":""}
+tellraw @a[team=blue] {"text":"<Ready?>","bold":true,"clickEvent":{"action":"run_command","value":"/function game:w_config/blue_ready"}}

@@ -1,0 +1,4 @@
+
+
+$execute if score BlueTeamTotal $(mob) matches 1.. run tellraw @a[team=blue] ["",{"text":"[","hoverEvent":{"action":"show_text","contents":"Configure Wave"}},{"text":"$(mob)","clickEvent":{"action":"run_command","value":"/function game:w_config/wave_mob_config_blue {mob:\"$(mob)\"}"},"hoverEvent":{"action":"show_text","contents":"Configure Wave"}},{"text":"] ","hoverEvent":{"action":"show_text","contents":"Configure Wave"}},{"text":"            Used: "},{"score":{"name":"BlueTeamUsed","objective":"$(mob)"}},{"text":" / "},{"score":{"name":"BlueTeamTotal","objective":"$(mob)"}},{"text":"     "}]
+#listet alle getöteten mobs auf
